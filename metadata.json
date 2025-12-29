@@ -1,0 +1,7 @@
+{
+  "name": " Night Market: Balloon Pop Challenge",
+  "description": "A vibrant, arcade-style balloon popping game set in a bustling night market. Use your ammo to hit high-value balloons while an AI stall owner provides witty commentary and special challenges.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
